@@ -1,4 +1,3 @@
-DupliFinder
 DupliFinder is a simple, easy-to-use tool designed to help users manage duplicate or near-duplicate files on their local storage. It provides a user-friendly graphical interface to select a directory, finds similar files based on a configurable similarity threshold, and prompts the user to choose which file to delete.
 
 Features
